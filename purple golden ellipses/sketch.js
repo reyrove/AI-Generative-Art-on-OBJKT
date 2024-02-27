@@ -45,6 +45,6 @@ function y2(t){
 
 function keyPressed() {
   if (key === 's') {
-    saveGif('mySketch', 10);
+    saveGif('purple golden ellipses', 10);
   }
 }
