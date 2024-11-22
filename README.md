@@ -15,8 +15,8 @@ Because it’s where the **real art** lives—where code meets culture, and coll
 
 ## **Explore, Mint, and Collect**
 
-- **[Explore the Collection](#)**  
-- **Mint Your Favorite Art** on Objkt!
+- **[Explore the Collection](https://objkt.com/users/tz1RXsijmPeeF1kPyrhd8Hkm2RskJAeU3si5/collections)**  
+- **Mint Your Favorite Art on [Objkt](https://objkt.com/)!**
 
 ## **Let’s Get Real: This is About More Than Art.**
 
