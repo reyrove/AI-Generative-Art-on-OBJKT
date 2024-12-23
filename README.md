@@ -25,10 +25,3 @@ It’s about the **fusion of tech and creativity**. It’s the future of art, wh
 ## **Join the Revolution**
 
 Ready to own a piece of chaos? Dive in, mint your masterpiece, and let’s make some noise.
-
----
-<<<<<<< HEAD
-**Created by**: Reyrove 💥
-=======
-**Created by**: Reyrove 💥
->>>>>>> c5d8c6464008db05f879c2503a5eb03e2cd64789
