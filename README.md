@@ -1,27 +1,19 @@
-# Welcome to the **Code Art** & **NFTs** on **Objkt** by **Reyrove**
+# 💥**AI & Generative Art** Revolution on **Objkt**💥
 
-Welcome to the wild side of **generative art**. Here, **code** collides with **creativity**, producing one-of-a-kind **NFTs** minted on **Objkt**. Powered by **p5.js** and **JavaScript**, every piece is born from **randomness**, **chaos**, and pure **digital magic**.
+Ready to dive into the next level of **generative art**? This is where **code** meets **creativity**, and BOOM—magic happens. 🌟 Each piece is crafted with **p5.js** & **JavaScript**, creating one-of-a-kind **NFTs** that are as random as they are revolutionary. **Pure chaos, pure genius.**
 
-## **What You’ll Find Here**
+## **What’s in the Mix?**
+Expect the unexpected. We're talking art made by **algorithms**, where every **minted NFT** is an explosion of randomness, creativity, and pure digital power. 💣 From wild color blasts to mind-bending curves, these pieces push limits with every creation.
 
-This collection showcases unique, code-driven art pieces, each **algorithmically generated** to ensure that no two are ever the same. From chaotic bursts of color to smooth mathematical curves, the art pushes boundaries with every iteration.
-
-- **Minted as NFTs** on Objkt.
-- Powered by **p5.js** and **JavaScript**.
-- Each piece is an evolving digital creation—random, beautiful, and impossible to replicate.
+- 💎 **NFTs minted on Objkt**—only the realest platform.
+- ⚡ Powered by **p5.js** and **JavaScript**—we're talking next-level tech.
+- 🎨 Every piece is unique—no copycats allowed.
 
 ## **Why Objkt?**
-Because it’s where the **real art** lives—where code meets culture, and collectors come for the thrill of owning something that can never be duplicated. Every mint is **one-of-a-kind**, guaranteed to be unlike anything you've seen before.
+Because this is where **true digital culture** thrives. When **code** becomes **art**, and art becomes **collectibles**, **Objkt** is the stage. 🖼️ Each piece is **1-of-1**. Period. No duplicates, no boring copies.
 
-## **Explore, Mint, and Collect**
-
+## **Ready to Dive In?**
 - **[Explore the Collection](https://objkt.com/users/tz1RXsijmPeeF1kPyrhd8Hkm2RskJAeU3si5/collections)**  
-- **Mint Your Favorite Art on [Objkt](https://objkt.com/)!**
+- **Mint Your Future Art on [Objkt](https://objkt.com/)!**
 
-## **Let’s Get Real: This is About More Than Art.**
-
-It’s about the **fusion of tech and creativity**. It’s the future of art, where code rules the canvas, and randomness is a beautiful thing.
-
-## **Join the Revolution**
-
-Ready to own a piece of chaos? Dive in, mint your masterpiece, and let’s make some noise.
+## **Let’s Be Real** — This is more than just art. It's a movement.
