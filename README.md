@@ -1,4 +1,4 @@
-# 💥**AI-Generative Art** Revolution on **Objkt**💥
+# 💥**AI & Generative Art** Revolution on **Objkt**💥
 
 Ready to blast off into the world of **generative art**? This is where **code** collides with **creativity**, and **BOOM**—magic is unleashed. 🚀 Powered by **p5.js** & **JavaScript**, these **NFTs** are born from chaos, randomness, and pure digital wizardry. 🎩✨
 
